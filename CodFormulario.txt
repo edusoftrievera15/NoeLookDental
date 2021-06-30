@@ -1,0 +1,82 @@
+<div class="popup_box ">
+            <div class="popup_inner">
+                <h3>Solicita una Consulta totalmente GRATIS!!!</h3>
+			    
+                            <!-- Form start -->
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="control-label" for="name">Nombres y Apellidos</label>
+                                        <input id="name" name="name" type="text" placeholder="Ingrese nombres y apellidos" class="form-control input-md">
+                                    </div>
+                                </div>
+                                <!-- Text input-->
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="control-label" for="email">Email</label>
+                                        <input id="email" name="email" type="text" placeholder="Ingrese su Correo" class="form-control input-md">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="control-label" for="email">Celular</label>
+                                        <input id="text" name="cel" type="text" placeholder="Ingrese su N° Celular" class="form-control input-md">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="control-label" for="email">Edad</label>
+                                        <input id="text" name="edad" type="text" placeholder="Ingrese su Edad" class="form-control input-md">
+                                    </div>
+                                </div>
+                                <!-- Text input-->
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="control-label" for="date">Fecha Preferida/Disponible</label>
+                                        <input id="date" name="date" type="text" placeholder="Ingrese la fecha a reservar" class="form-control input-md">
+                                    </div>
+                                </div>
+                                <!-- Select Basic -->
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="control-label" for="time">Hora Preferido/Disponible</label>
+                                        <select id="time" name="time" class="form-control">
+                                            <option value="8:00 am - 9:00 am">8:00 am - 9:00 am</option>
+                                            <option value="9:00 am - 10:00 am">9:00 am - 10:00 am</option>
+                                            <option value="10:00 am - 11:00 am">10:00 am - 11:00 am</option>
+                                            <option value="11:00 am - 12:00 m">11:00 am - 12:00 m</option>
+                                            <option value="12:00 m - 13:00 pm">12:00 m - 13:00 pm</option>
+                                            
+                                        </select>
+                                    </div>
+                                </div>
+                                <!-- Select Basic -->
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label class="control-label" for="appointmentfor">Elige un Tratamiento</label>
+                                        <select id="appointmentfor" name="appointmentfor" class="form-control">
+                                            <option value="Ortodoncia">Ortodoncia</option>
+											<option value="Carillas Dentales">Carillas Dentales</option>
+											<option value="Endodoncia">Endodoncia</option>
+											<option value="Profilaxis Dental">Profilaxis Dental</option>
+											<option value="Periodontitis">Periodontitis</option>
+											<option value="Fluorización">Fluorización</option>
+                                            <option value="Muela del Juicio">Muela del Juicio</option>
+                                            <option value="Blanqueamiento Dental">Blanqueamiento Dental</option>
+                                            <option value="Protesis Dentale">Protesis Dentale</option>
+                                            <option value="Estética Dental">Estética Dental</option>
+                                            
+                                        </select>
+                                    </div>
+                                </div>
+                                <!-- Button -->
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <button id="singlebutton" name="singlebutton" class="new-btn-d br-2">Solicitar Reserva</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    <!-- form end -->
+                </div>
+		</div>
